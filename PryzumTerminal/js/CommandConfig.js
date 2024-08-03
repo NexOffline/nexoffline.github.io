@@ -6,28 +6,29 @@ var home = "https://nexoffline.github.io";
 //var email = ' ';
 
 //---------------------------- Red List Idea---------------------------------
-//Redlist = [
-//  "<span class=\"color5\">                                                                The Red List                                                                  </span>",
-//  "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
- // "<span class=\"color5\">│ Nickname │                                                       Notes:                                                  │   Phone Number:  │</span>",
- // "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
- // "<span class=\"color5\">│    DP    │                                    Selling weed at a low price also selling BUTC                              │   1234567891011  │</span>",
- // "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
- // "<br>",
-//];
+redlist = [
+ "<span class=\"color5\">                                                                The Red List                                                                  </span>",
+ "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
+ "<span class=\"color5\">│ Nickname │                                                       Notes:                                                  │   Phone Number:  │</span>",
+ "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
+ "<span class=\"color5\">│    PS    │                                            Selling weed at a low price                                        │   1234567891011  │</span>",
+ "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
+ "<br>",
+];
 
 help = [
   "<br>",
   '<span class="command">changelog</span>         Check the websites changelog',
+  '<span class="command">redlist</span>         View a list of contacts who offer services',
   '<span class="command">Internal Computer</span> Open the Internal Computer',
-  '<span class="command">Statements</span>        View the latest Pryzum Statements',
+//  '<span class="command">Statements</span>        View the latest Pryzum Statements',
   '<span class="command">Neofetch</span>          List the system specs of the P.T.I',
   '<span class="command">history</span>           View command history',
-  '<span class="command">Join Us</span>           Get intouch with us',
+//  '<span class="command">Join Us</span>           Get intouch with us',
   '<span class="command">Home</span>              Go Back to The Home Page',
   '<span class="command">clear</span>             Clear terminal',
   '<span class="command">banner</span>            Display the header',
-  '<span class="command">mission_objective_1</span>   View the most recent mission objective.',
+//  '<span class="command">mission_objective_1</span>   View the most recent mission objective.',
   "<br>",
 ];
 
@@ -52,13 +53,13 @@ banner = [
 changelog = [
   "<br>",
   "///--------------Pryzum Website Change Log----------------///",
-  "<span class='command'>              Website Went Live - 17/04/2024</span>",
-  "<span class='command'>          Pryzum Terminal Went Live - 18/04/2024</span>",
-  "<span class='command'>      Added the internal Computer Command - 20/04/2024</span>",
-  "<span class='command'>            Added the Home Command - 20/04/2024</span>",
-  "<span class='command'>          Added the Neofetch Command - 22/04/2024</span>",
-  "<span class='command'>         Added the Statements Command - 23/04/2024</span>",
-  "<span class='command'>          Added the Join Us Command - 14/06/2024</span>",
+  "<span class='command'>              Website Went Live - 8/03/2024</span>",
+  "<span class='command'>          Pryzum Terminal Went Live - 8/03/2024</span>",
+ // "<span class='command'>      Added the internal Computer Command - 20/04/2024</span>",
+ // "<span class='command'>            Added the Home Command - 20/04/2024</span>",
+ // "<span class='command'>          Added the Neofetch Command - 22/04/2024</span>",
+ // "<span class='command'>         Added the Statements Command - 23/04/2024</span>",
+ // "<span class='command'>          Added the Join Us Command - 14/06/2024</span>",
   '   <img src="https://c.tenor.com/sxg04ACV3JMAAAAC/tenor.gif">',
   "<br>",
 ];

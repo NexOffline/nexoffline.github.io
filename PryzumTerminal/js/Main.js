@@ -28,6 +28,7 @@ pw=!1;let pwd=!1;var commands=[];function enterKey(e){if(181==e.keyCode&&documen
     ;case"neofetch":loopLines(neofetch,"",80);break
     ;case"statements":loopLines(statements,"",80);break
     ;case"legionlist":loopLines(legionlist,"",80);break
+    ;case"redlist":loopLines(legionlist,"",80);break
     ;case"join us":loopLines(join_us,"",80);break
 
     // Pryzum CTF Command
