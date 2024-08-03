@@ -1,5 +1,5 @@
 var pcc = "https://arescs.github.io/gta-v-pryzum-central-computer/";
-var home = "https://nexofflines.github.io";
+var home = "https://nexoffline.github.io";
 //var linkedin = " ";
 //var instagram = " ";
 //var github = " ";
