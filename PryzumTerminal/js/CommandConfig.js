@@ -27,6 +27,7 @@ help = [
   '<span class="command">Home</span>              Go Back to The Home Page',
   '<span class="command">clear</span>             Clear terminal',
   '<span class="command">banner</span>            Display the header',
+  '<span class="command">mission_objective_1</span>   View the most recent mission objective.',
   "<br>",
 ];
 
