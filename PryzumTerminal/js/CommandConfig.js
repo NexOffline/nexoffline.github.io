@@ -1,5 +1,5 @@
 var pcc = "https://arescs.github.io/gta-v-pryzum-central-computer/";
-var home = "https://pryzum.github.io";
+var home = "https://nexofflines.github.io";
 //var linkedin = " ";
 //var instagram = " ";
 //var github = " ";
@@ -210,4 +210,35 @@ mission_objective_1 = [
   "<br>",
   "<b>PLEASE NOTE: ALL FLAGS ARE WITHIN THIS WEBSITE DO NOT TRY TO ATTACK THE HOST IP OF THIS SITE!!!!</b>",
   "<hr>",
+];
+// gang gun lists
+legionlist = [
+  '<hr>',
+  "<h1 class='h1ns'><span class=\"color5\">&nbsp;██╗░░░░░███████╗░██████╗░██╗░█████╗░███╗░░██╗</span></h1>",
+  "<h1 class='h1ns'><span class=\"color5\">██║░░░░░██╔════╝██╔════╝░██║██╔══██╗████╗░██║</span></h1>",
+  "<h1 class='h1ns'><span class=\"color5\">██║░░░░░█████╗░░██║░░██╗░██║██║░░██║██╔██╗██║</span></h1>",
+  "<h1 class='h1ns'><span class=\"color5\">██║░░░░░██╔══╝░░██║░░╚██╗██║██║░░██║██║╚████║</span></h1>",
+  "<h1 class='h1ns'><span class=\"color5\">&nbsp;╚══════╝╚══════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝</span></h1>",
+  '<br>',
+  '<h2>lowering the pay of medics and EMS to 250 an hour?????????????<h2>',
+  '<h2>You are a criminal, you should of never been trusted to run for Mayor<h2>',
+  '<h2>We know the cops wont look into you so we will<h2>',
+  '<h2>WATCH YOUR ASS THE NEXT TIME YOU SHOW YOUR FACE IN PUBLIC!!!!!!!!!!<h2>',
+
+  '<hr>',
+  '<h1><span class=\"color5\">A Statement From Pryzum, 21st of April 2024:</span></h1>',
+  '<br>',
+  'Max you may bribe and intimidate your way to the top',
+  'but this will not last forever',
+  '<br>',
+  'Watch your back',
+  '<br>',
+  'aXQgaXMgb3VyIHN0cm9uZyBiZWxpZWYgdGhhdCBBcmNoaWUgQXJjaGVyIHdhcyBw',
+  'YXllZCBodXNoIG1vbmV5IGJ5IE1heCB0byBzdGVwIGRvd24gZnJvbSBydW5uaW5n',
+  'IGZvciBtYXlvciBhcyBtYXggd2FzIHdvcnJpZWQgQXJjaGllIG1pZ2h0IHdpbiwg',
+  'QXJjaGllIHdhcyBjYW1wYWlnbmluZyBub24gc3RvcCBmb3IgYWxtb3N0IDMgd2Vl',
+  'a3MgYW5kIHRoZSBtb21lbnQgdGhlIGJhbGxvdCBvcGVuZWQgaGUgc3RlcHBlZCBk',
+  'b3duPz8/Pz8gaXQgc2VlbXMgdG9vIHN1c3BpY2lvdXMgdG8gdXMg',
+  '<br>',
+  '<img src="https://femboy.beauty/gu4Mo.png" style="width:300px;height:300px;">',
 ];
