@@ -240,7 +240,7 @@ legionlist = [
   "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
   "<span class=\"color5\">│     FNX 45      │ $8,000   │</span>",
   "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
-  "<span class=\"color5\">│  Heavy Pistol   │ $8,000   │</span>",
+  "<span class=\"color5\">│  Heavy Pistol   │ $13,000   │</span>",
   "<span class=\"color5\">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span>",
   '<h2>Your Designated Booker is: AJ | Phone Number: 999-999-9999<h2>',
   // '<h2>You are a criminal, you should of never been trusted to run for Mayor<h2>',
