@@ -214,16 +214,13 @@ mission_objective_1 = [
 // gang gun lists
 legionlist = [
   '<hr>',
- "<span class=\"neofetchcolour4\">$$\       $$$$$$$$\  $$$$$$\  $$$$$$\  $$$$$$\  $$\   $$\ </span>",
- "<span class=\"neofetchcolour4\">$$ |      $$  _____|$$  __$$\ \_$$  _|$$  __$$\ $$$\  $$ | </span>",
- "<span class=\"neofetchcolour4\">$$ |      $$ |      $$ /  \__|  $$ |  $$ /  $$ |$$$$\ $$ | </span>",
- "<span class=\"neofetchcolour4\">$$ |      $$$$$\    $$ |$$$$\   $$ |  $$ |  $$ |$$ $$\$$ | </span>",
- "<span class=\"neofetchcolour4\">$$ |      $$  __|   $$ |\_$$ |  $$ |  $$ |  $$ |$$ \$$$$ | </span>",
- "<span class=\"neofetchcolour4\">$$ |      $$ |      $$ |  $$ |  $$ |  $$ |  $$ |$$ |\$$$ | </span>",
- "<span class=\"neofetchcolour4\">$$$$$$$$\ $$$$$$$$\ \$$$$$$  |$$$$$$\  $$$$$$  |$$ | \$$ | </span>",
- "<span class=\"neofetchcolour4\">\________|\________| \______/ \______| \______/ \__|  \__| </span>",
-                                                          
-  // "<h1 class='h1ns'><span class=\"neofetchcolour4\">&nbsp;██╗░░░░░███████╗░██████╗░██╗░█████╗░███╗░░██╗</span></h1>",
+ "<span class=\"neofetchcolour4\">██╗     ███████╗ ██████╗ ██╗ ██████╗ ███╗   ██╗</span>",
+ "<span class=\"neofetchcolour4\">██║     ██╔════╝██╔════╝ ██║██╔═══██╗████╗  ██║</span>",
+ "<span class=\"neofetchcolour4\">██║     █████╗  ██║  ███╗██║██║   ██║██╔██╗ ██║</span>",
+ "<span class=\"neofetchcolour4\">██║     ██╔══╝  ██║   ██║██║██║   ██║██║╚██╗██║</span>",
+ "<span class=\"neofetchcolour4\">███████╗███████╗╚██████╔╝██║╚██████╔╝██║ ╚████║</span>",
+ "<span class=\"neofetchcolour4\">╚══════╝╚══════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═══╝</span>",
+                  // "<h1 class='h1ns'><span class=\"neofetchcolour4\">&nbsp;██╗░░░░░███████╗░██████╗░██╗░█████╗░███╗░░██╗</span></h1>",
   // "<h1 class='h1ns'><span class=\"neofetchcolour4\">██║░░░░░██╔════╝██╔════╝░██║██╔══██╗████╗░██║</span></h1>",
   // "<h1 class='h1ns'><span class=\"neofetchcolour4\">██║░░░░░█████╗░░██║░░██╗░██║██║░░██║██╔██╗██║</span></h1>",
   // "<h1 class='h1ns'><span class=\"neofetchcolour4\">██║░░░░░██╔══╝░░██║░░╚██╗██║██║░░██║██║╚████║</span></h1>",
